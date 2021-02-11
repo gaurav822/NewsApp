@@ -1,6 +1,6 @@
 # NewsApp
 
-A new Flutter project.
+A simple flutter news having different categories such as business, technology, science, etc.
 
 ## Getting Started
 
